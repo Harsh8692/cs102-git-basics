@@ -1,0 +1,25 @@
+﻿CS101 : Homework - 2
+   
+   Que 2.
+   Sol: For square root of number  1:
+   ● Running time for ‘Linear Search Algorithm’ for calculating approx. square root of 5 
+   and 90 is 22339 and 94864 seconds respectively.
+   ● Running time for ‘Heron’s Method’ for calculating approx. square root of 5 and 90 is 3 and 
+   6 seconds respectively.
+   ● Running time for ‘Bisection Search Algorithm’ for calculating approx. square root of 5 
+   and 90 is 8 and 16 seconds respectively.
+
+
+   For square root of number  1:
+   ● Running time for ‘Linear Search Algorithm’ for calculating approx. square root of 0.8 
+   and 0.3 is 8889 and seconds 5386 respectively.
+   ● Running time for ‘Heron’s Method’ for calculating approx. square root of 0.8 and 0.3 is 2 
+   and 2 seconds respectively.
+   ● Running time for ‘Bisection Search Algorithm’ for calculating approx. square root of 0.8 
+   and 0.3 is 5 and 5 seconds respectively.
+
+
+      In my opinion, Heron’s Method Algorithm is the best algorithm to find the approx. square
+   root of a number because for nearly all the inputs whether greater than 1 or less than or 
+   equal to 1 it takes less number of iterations and gives far precise square root value as  
+   compared to ‘Linear Search Algorithm’ and ‘Bisection Search Method’.
